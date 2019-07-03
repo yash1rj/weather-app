@@ -1,4 +1,4 @@
-## Setting up the index view
+# Setting up the index view
 Instead of responding with text when someone visits our root route, we’d like to respond with an HTML file. For this, we’ll be using EJS (Embedded JavaScript). EJS is a templating language.
 
 In order to use EJS in Express, we need to set up our template engine:
